@@ -1,0 +1,54 @@
+<p align="center">
+  <img src="IMG_6472.JPG" alt="Tableau de Bord" width="600">
+</p>
+
+# 📝 Compte Rendu : Analyse de la Base Clients (Maroc)
+
+## 1. Introduction
+Ce document présente une synthèse des données extraites du fichier client. L'objectif est de fournir une vision claire de la répartition géographique, des types de demandes bancaires et du profil socioprofessionnel de la clientèle sur la période de début 2026.
+
+---
+
+## 2. Indicateurs Clés de Performance (KPIs)
+* **Période analysée :** Janvier 2026 - Avril 2026.
+* **Taux de transformation (Accords) :** Élevé (Majorité des demandes sont marquées "Accordé").
+* **Villes dominantes :** Kenitra, Rabat, Marrakech, Oujda.
+* **Segment prioritaire :** Segment **Premium** et **Entreprise**.
+
+---
+
+## 3. Analyse Détaillée
+
+### A. Répartition des Demandes Bancaires
+Les demandes sont diversifiées, reflétant des besoins variés selon les profils :
+1.  **Crédit Immobilier :** Forte demande, principalement chez les profils "Premium".
+2.  **Carte Bancaire :** Demande standard répartie sur tous les segments.
+3.  **Ouverture de compte :** Flux régulier de nouveaux clients (Segment "Nouveau").
+4.  **Crédit Consommation :** Sollicité majoritairement par les commerçants et techniciens.
+
+### B. Profils Socioprofessionnels
+La base de données révèle une clientèle à fort potentiel :
+* **Cadres & Professions Libérales :** Ingénieurs, Médecins, Enseignants (forte présence à Rabat et Kenitra).
+* **Indépendants :** Commerçants et Entrepreneurs (présence marquée à Oujda et Fès).
+* **Secteur Public :** Fonctionnaires.
+
+### C. État de traitement des dossiers (Sort Demande)
+* **Accordé :** Statut dominant, indiquant une bonne éligibilité de la base actuelle.
+* **En cours :** Concerne principalement les dossiers enregistrés sur le dernier mois (Mars-Avril 2026).
+* **Refusé / Préconisation :** Volume marginal nécessitant un suivi spécifique pour comprendre les points de blocage.
+
+---
+
+## 4. Observations Géographiques
+* **Axe Kenitra-Rabat :** Zone la plus active en termes de volume de dossiers et de qualité de segment (Premium).
+* **Région Nord & Oriental (Tanger/Oujda) :** Demandes principalement orientées vers le commerce et l'équipement (Crédits conso/cartes).
+
+---
+
+## 5. Recommandations
+1.  **Suivi des dossiers "En cours" :** Prioriser les dossiers de fin mars pour finaliser les objectifs du premier trimestre.
+2.  **Ciblage Premium :** Développer des offres spécifiques de gestion de patrimoine pour les profils "Ingénieurs/Médecins" identifiés à Rabat.
+3.  **Fidélisation :** Mettre en place une campagne de cross-selling pour les clients du segment "Fidèle" n'ayant qu'un seul produit actif.
+
+---
+*Fin du rapport.*
